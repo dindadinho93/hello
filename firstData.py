@@ -12,7 +12,7 @@ import re
 import tensorflow_hub as hub
 import torch
 
-a = 121
+a = 10
 b = 12
 print(a+b)
 
